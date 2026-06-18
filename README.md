@@ -19,3 +19,11 @@ My path into data began in construction and design, where a single analytical pr
 * **Collaboration:** Strong interpersonal and cross-functional communication skills, with a proven track record of working seamlessly within fast-paced, high-stakes analytics pods.
 
 *I am continuously looking to scale my expertise into mid-level specialist roles, focusing on complex architectures, secure workflows, and robust IT-driven data environments.*
+
+## 📊 GitHub Analytics
+
+Snapshot of recent development activity and language distribution:
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true)
