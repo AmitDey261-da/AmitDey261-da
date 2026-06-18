@@ -4,6 +4,25 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&vCenter=true&width=600&lines=Senior+Catastrophe+Modelling+Analyst;Data+Pipeline+Engineer;SQL+Optimization+Specialist;Automation+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
+
+### 🖥️ Executing profile.py...
+
+python
+import gallagher_re as gr
+
+class Analyst:
+    def __init__(self):
+        self.name = "Amit Dey"
+        self.role = "Senior Catastrophe Modelling Analyst"
+        self.primary_language = "Python"
+        self.core_stack = ["Polars", "DuckDB", "T-SQL", "Streamlit"]
+        self.obsession = "Writing clean, high-performance data pipelines"
+
+    def get_focus(self):
+        return "Optimizing multi-million row relational database operations."
+
+print(Analyst().get_focus())
+
 I am a **Senior Catastrophe Modelling Analyst** at Gallagher Re, supporting the North America Florida team. My expertise lies at the intersection of catastrophe risk analytics, advanced data engineering, and automation. I specialize in processing large-scale exposure datasets, managing relational databases, and building robust analytical workflows to estimate and mitigate risk.
 
 My path into data began in construction and design, where a single analytical project sparked a passion for data-driven problem solving. After teaching myself SQL, I successfully transitioned into tech-driven analytics, ultimately specializing in complex insurance data frameworks and cat risk modeling.
