@@ -7,21 +7,19 @@
 
 ### 🖥️ Executing profile.py...
 
-python
-import gallagher_re as gr
+    python
+    import gallagher_re as gr
 
-class Analyst:
+    class Analyst:        
     def __init__(self):
         self.name = "Amit Dey"
         self.role = "Senior Catastrophe Modelling Analyst"
         self.primary_language = "Python"
         self.core_stack = ["Polars", "DuckDB", "T-SQL", "Streamlit"]
         self.obsession = "Writing clean, high-performance data pipelines"
-
     def get_focus(self):
         return "Optimizing multi-million row relational database operations."
-
-print(Analyst().get_focus())
+    print(Analyst().get_focus())
 
 I am a **Senior Catastrophe Modelling Analyst** at Gallagher Re, supporting the North America Florida team. My expertise lies at the intersection of catastrophe risk analytics, advanced data engineering, and automation. I specialize in processing large-scale exposure datasets, managing relational databases, and building robust analytical workflows to estimate and mitigate risk.
 
