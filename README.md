@@ -24,6 +24,6 @@ My path into data began in construction and design, where a single analytical pr
 
 Snapshot of recent development activity and language distribution:
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmitDey261-da&show_icons=true&theme=radical&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmitDey261-da&layout=compact&theme=radical&hide_border=true)
