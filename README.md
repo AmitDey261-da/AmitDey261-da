@@ -52,6 +52,6 @@ Snapshot of recent development activity and language distribution:
 
 ---
 
-### 🐍 Contribution Activity Graph
+### 📈 Activity Distribution
 
-![Amit's 3D Contribution Graph](https://github-profile-3d-contrib.vercel.app/api?username=AmitDey261-da&theme=tokyonight)
+![Amit's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AmitDey261-da&theme=tokyonight&hide_border=true)
