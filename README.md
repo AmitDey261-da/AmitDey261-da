@@ -54,6 +54,4 @@ Snapshot of recent development activity and language distribution:
 
 ### 🐍 Contribution Activity Graph
 
-![Snake Animation](https://raw.githubusercontent.com/AmitDey261-da/AmitDey261-da/output/github-contribution-grid-snake.svg)
-
-*Note: The snake animation widget runs via automated workflows. Once you pin your best repositories to your homepage, this entire dashboard will present a comprehensive, enterprise-ready image to visiting engineering leads.*
+![Amit's 3D Contribution Graph](https://github-profile-3d-contrib.vercel.app/api?username=AmitDey261-da&theme=tokyonight)
