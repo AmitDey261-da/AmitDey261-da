@@ -203,4 +203,3 @@ Snapshot of recent development activity and language distribution:
 - VS Code    5 hrs 20 mins  █████████████░░░░░░░░░   53.3%
 - SSMS       4 hrs 42 mins  ███████████░░░░░░░░░░░   46.7%
 <!-- END_SECTION:wakatime -->
-
