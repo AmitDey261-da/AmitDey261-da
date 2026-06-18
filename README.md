@@ -77,6 +77,19 @@ Snapshot of recent development activity and language distribution:
 
 ![Amit's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AmitDey261-da&theme=tokyonight&hide_border=true)
 
+### 🛠️ Python Ecosystem Specialty
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Polars](https://img.shields.io/badge/Polars-00c1d5?style=for-the-badge&logo=pandas&logoColor=white)](https://pola.rs/)
+[![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)](https://duckdb.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)
+
+### 📦 Featured Pipeline Repository Metrics
+
+[![Python Version](https://img.shields.io/badge/Python-3.10%20%7C%203.11%20%7C%203.12-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Code Style: Black](https://img.shields.io/badge/code%20style-black-000000.svg?style=for-the-badge)](https://github.com/psf/black)
+
 ### ⏱️ Weekly Development Breakdown
 
 <!-- START_SECTION:wakatime -->
