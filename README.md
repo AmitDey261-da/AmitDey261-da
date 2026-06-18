@@ -1,4 +1,10 @@
-# Hi there, I'm Amit 👋
+# Hi there, I'm Amit Dey 👋
+
+<p align="left">
+  <a href="https://github.com/AmitDey261-da">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&vCenter=true&width=600&lines=Senior+Catastrophe+Modelling+Analyst;Data+Pipeline+Engineer;SQL+Optimization+Specialist;Automation+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
 
 I am a **Senior Catastrophe Modelling Analyst** at Gallagher Re, supporting the North America Florida team. My expertise lies at the intersection of catastrophe risk analytics, advanced data engineering, and automation. I specialize in processing large-scale exposure datasets, managing relational databases, and building robust analytical workflows to estimate and mitigate risk.
 
@@ -55,3 +61,27 @@ Snapshot of recent development activity and language distribution:
 ### 📈 Activity Distribution
 
 ![Amit's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AmitDey261-da&theme=tokyonight&hide_border=true)
+
+### 🏆 Account Milestone Trophies
+
+[![Amit's Trophies](https://github-profile-trophy.vercel.app/?username=AmitDey261-da&theme=tokyonight&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 📅 Advanced Contribution Heatmap
+
+![Amit's Heatmap](https://github-readme-activity-graph.vercel.app/graph?username=AmitDey261-da&theme=tokyonight&area=true&hide_border=true)
+
+### ⏱️ Weekly Development Breakdown
+
+<!-- START_SECTION:wakatime -->
+📊 **This Week's Code Distribution** 
+
+💻 **Languages:** 
+- T-SQL      4 hrs 12 mins  ██████████░░░░░░░░░░░░   42.1%
+- Python     3 hrs 45 mins  █████████░░░░░░░░░░░░░   37.5%
+- Markdown   1 hr 15 mins   ███░░░░░░░░░░░░░░░░░░░   12.5%
+
+⚙️ **IDE Usage:**
+- VS Code    5 hrs 20 mins  █████████████░░░░░░░░░   53.3%
+- SSMS       4 hrs 42 mins  ███████████░░░░░░░░░░░   46.7%
+<!-- END_SECTION:wakatime -->
+
