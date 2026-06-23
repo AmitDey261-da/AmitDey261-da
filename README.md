@@ -49,6 +49,8 @@ Snapshot of recent development activity and language distribution:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmitDey261-da&layout=compact&theme=radical&hide_border=true&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
+![My Python Animation](my-animation.gif)
+
 ### 🛠️ Tech Stack & Ecosystem
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
