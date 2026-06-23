@@ -1,7 +1,7 @@
 # Hi there, I'm Amit Dey 👋
 <p align="left">
   <a href="https://github.com/AmitDey261-da">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&vCenter=true&width=600&lines=Senior+Catastrophe+Modelling+Analyst;Data+Pipeline+Engineer;SQL+Optimization+Specialist;Automation+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&vCenter=true&width=600&lines=Senior+Catastrophe+Modelling+Analyst;Data+Digging;SQL+Optimization+Specialist;Automation+Enthusiast;New+Python+Class+Developers" alt="Typing SVG" />
   </a>
 </p>
 
