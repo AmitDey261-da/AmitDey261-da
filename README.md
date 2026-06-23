@@ -49,7 +49,13 @@ Snapshot of recent development activity and language distribution:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmitDey261-da&layout=compact&theme=radical&hide_border=true&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
-![My Python Animation](my-animation.gif)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmitDey261-da/AmitDey261-da/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmitDey261-da/AmitDey261-da/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AmitDey261-da/AmitDey261-da/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ### 🛠️ Tech Stack & Ecosystem
 
