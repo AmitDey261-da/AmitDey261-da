@@ -43,7 +43,16 @@ My path into data began in construction and design, where a single analytical pr
 
 ## 📊 GitHub Analytics
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmitDey261-da&layout=compact&theme=radical&hide_border=true&langs_count=6)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-90%25-blue?style=for-the-badge&logo=python">
+  <img src="https://img.shields.io/badge/SQL-95%25-orange?style=for-the-badge&logo=microsoftsqlserver">
+  <img src="https://img.shields.io/badge/Data_Engineering-Expert-success?style=for-the-badge">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cat_Modeling-RMS_|_AIR-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Automation-Python_+_VBA-green?style=for-the-badge">
+</p>
 
 <div align="center">
   <picture>
