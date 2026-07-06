@@ -54,7 +54,20 @@ My path into data began in construction and design, where a single analytical pr
   <img src="https://img.shields.io/badge/Automation-Python_+_VBA-green?style=for-the-badge">
 </p> -->
 
-https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=120&section=header&text=Amit%20Dey%20Analytics&fontSize=35&fontColor=ffffff
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Analytics%20Command%20Center&fontSize=38&fontColor=ffffff&animation=fadeIn"/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/SQL_Server-Expert-red?style=for-the-badge&logo=microsoftsqlserver"/>
+  <img src="https://img.shields.io/badge/CAT_Modeling-RMS_&_Touchstone-green?style=for-the-badge"/>
+</p>
+
+```text
+DATA ENGINEERING     ████████████████████ 95%
+DATABASE DESIGN      ████████████████████ 98%
+PYTHON DEVELOPMENT   ███████████████████░ 92%
+CAT MODELLING        ██████████████████░░ 88%
+AUTOMATION           ███████████████████░ 90%
 
 <div align="center">
   <picture>
