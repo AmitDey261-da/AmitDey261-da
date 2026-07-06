@@ -43,7 +43,7 @@ My path into data began in construction and design, where a single analytical pr
 
 ## 📊 GitHub Analytics
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-90%25-blue?style=for-the-badge&logo=python">
   <img src="https://img.shields.io/badge/SQL-95%25-orange?style=for-the-badge&logo=microsoftsqlserver">
   <img src="https://img.shields.io/badge/Data_Engineering-Expert-success?style=for-the-badge">
@@ -52,7 +52,7 @@ My path into data began in construction and design, where a single analytical pr
 <p align="center">
   <img src="https://img.shields.io/badge/Cat_Modeling-RMS_|_AIR-red?style=for-the-badge">
   <img src="https://img.shields.io/badge/Automation-Python_+_VBA-green?style=for-the-badge">
-</p> -->
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Analytics%20Command%20Center&fontSize=38&fontColor=ffffff&animation=fadeIn"/>
 
@@ -62,7 +62,6 @@ My path into data began in construction and design, where a single analytical pr
   <img src="https://img.shields.io/badge/CAT_Modeling-RMS_&_Touchstone-green?style=for-the-badge"/>
 </p>
 
-```text
 DATA ENGINEERING     ████████████████████ 95%
 DATABASE DESIGN      ████████████████████ 98%
 PYTHON DEVELOPMENT   ███████████████████░ 92%
