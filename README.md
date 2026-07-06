@@ -62,11 +62,13 @@ My path into data began in construction and design, where a single analytical pr
   <img src="https://img.shields.io/badge/CAT_Modeling-RMS_&_Touchstone-green?style=for-the-badge"/>
 </p>
 
+```
 DATA ENGINEERING     ████████████████████ 95%
 DATABASE DESIGN      ████████████████████ 98%
 PYTHON DEVELOPMENT   ███████████████████░ 92%
 CAT MODELLING        ██████████████████░░ 88%
 AUTOMATION           ███████████████████░ 90%
+```
 
 <div align="center">
   <picture>
