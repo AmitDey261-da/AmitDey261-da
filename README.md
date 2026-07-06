@@ -43,7 +43,7 @@ My path into data began in construction and design, where a single analytical pr
 
 ## 📊 GitHub Analytics
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://img.shields.io/badge/Python-90%25-blue?style=for-the-badge&logo=python">
   <img src="https://img.shields.io/badge/SQL-95%25-orange?style=for-the-badge&logo=microsoftsqlserver">
   <img src="https://img.shields.io/badge/Data_Engineering-Expert-success?style=for-the-badge">
@@ -52,7 +52,17 @@ My path into data began in construction and design, where a single analytical pr
 <p align="center">
   <img src="https://img.shields.io/badge/Cat_Modeling-RMS_|_AIR-red?style=for-the-badge">
   <img src="https://img.shields.io/badge/Automation-Python_+_VBA-green?style=for-the-badge">
-</p>
+</p> -->
+
+┌──────────────────────────────────────────┐
+│              AMIT DEY                    │
+├──────────────────────────────────────────┤
+│ Python              ██████████████ 90%   │
+│ SQL/T-SQL           ███████████████ 95%  │
+│ Cat Modeling        █████████████  85%   │
+│ Data Engineering    ██████████████ 90%   │
+│ VBA Automation      ████████████   80%   │
+└──────────────────────────────────────────┘
 
 <div align="center">
   <picture>
