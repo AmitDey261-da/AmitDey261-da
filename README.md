@@ -54,15 +54,7 @@ My path into data began in construction and design, where a single analytical pr
   <img src="https://img.shields.io/badge/Automation-Python_+_VBA-green?style=for-the-badge">
 </p> -->
 
-┌──────────────────────────────────────────┐
-│              AMIT DEY                    │
-├──────────────────────────────────────────┤
-│ Python              ██████████████ 90%   │
-│ SQL/T-SQL           ███████████████ 95%  │
-│ Cat Modeling        █████████████  85%   │
-│ Data Engineering    ██████████████ 90%   │
-│ VBA Automation      ████████████   80%   │
-└──────────────────────────────────────────┘
+https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=120&section=header&text=Amit%20Dey%20Analytics&fontSize=35&fontColor=ffffff
 
 <div align="center">
   <picture>
