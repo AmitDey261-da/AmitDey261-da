@@ -43,6 +43,8 @@ My path into data began in construction and design, where a single analytical pr
 
 ## 📊 GitHub Analytics
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmitDey261-da&layout=compact&theme=radical&hide_border=true&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmitDey261-da/AmitDey261-da/output/github-contribution-grid-snake-dark.svg">
