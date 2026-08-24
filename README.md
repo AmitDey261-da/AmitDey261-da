@@ -1,10 +1,5 @@
 # Hi there, I'm Amit Dey 👋
 
-<h1 align="center">Amit Dey</h1>
-
-<p align="center">
-Senior CAT Modeling Analyst
-</p>
 ```
                                            .;cloodxxxdollc,.                                        
                                          .lOXWWWWWWWWWNXKOOxc;.                                     
