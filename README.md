@@ -1,5 +1,65 @@
 # Hi there, I'm Amit Dey 👋
 
+<h1 align="center">Amit Dey</h1>
+
+<p align="center">
+Senior CAT Modeling Analyst
+</p>
+```
+                                           .;cloodxxxdollc,.                                        
+                                         .lOXWWWWWWWWWNXKOOxc;.                                     
+                                        .xXNMWMWWMMWWMMWWWXKK0k:                                    
+.                                     .;oNWMMMMMMMMMMMMWWWWWNKKKd.             .      .             
+                                     :k0KNMMMMMMMMWWMMMMMMMMMWNNWKc                                 
+.                                   lXXXNWXKKK0O00OOO0KXXNNWMMMWNN0o.                               
+.                                  ;XWNNWXxoddoooooooodddddxOKNMMWXK:    ..                         
+.                            .     oWWWWNxooooooooooollllllllodkXMWXo  ..                           
+.                                  xMMWN0dooooooooooollllllccclloOXNd                               
+                                   xMMWNOdddddoooollollllllcccccclKWx                               
+                                   xMMWNkdddooolllllllllllccc::cll0Nd                               
+                            ..     dMMMKdddxkOO00OOxoollloodddolcc0Wl  ..                           
+                                  .dWMWkoddOOO00KXXKOxdddxOKXKOkxoON;                               
+                                  c0OWWxooxkOKKXXKKK0koloOKXXOOkxoxK,                               
+.                                 dkdONxooodxkO00OOOkxollkOKXOkkdlo0;                               
+.                                 lxkOOxollllloddddddolccllodolc::od;  ..      .                    
+                                  :xkdxxdolcccclloddolll::clcc::::lo,                               
+.                                 ,oddkxdooooooodkkololll::okolccccc,                               
+                                   ,:ccxdddddxxkOkxk0KOxxxxdkOkdlll:.                               
+.                                      lxxxxxkk0KOkkO0000kxdxOOkdo:.                                
+                                       ;kxxxxxx0XKOkkkkkxddk00dddo,                                 
+                                       .dkxxxxxkkkkxdooolldkxkdodl.                                 
+.                                       :OOOkkkkxddxxxddddoloddxo,       ..                         
+.                                      .:x0000Oxxdddxkkkkdolodxo,                                   
+.                                     .,odxOKKK0kdooooooollcoxc.                                    
+.                                    :x::oxxOKXXXKOkkkkkxxkko,                                      
+.                             .    .oK0c::lxkk0KKXNNXXXXXKOx;                                       
+.                           .     ;kKXX0c:ccoxkOO0KKKXK0Oxol;                                       
+.                              ,:o0KXXXN0ccccloxkOO000Oxdold:.                                      
+.                          .;cdO0KKXXXXXN0ccccccloxkOOkxoldd;doc;.                                  
+.                      .,:oxO0KKXXKXXXXXXN0lccccc:cldxxdoxk;,OKkkkdl;,                              
+.                  .,:lxkO00KKKXXXXXXXXXXXN0lccccc::::ldxo;,,xNOkkOOOkdl:,                          
+.              .,:oxkO0000KKKXXXXXXXXXXXXXXXOlccccc::cxOOxc;,:0X0OkkO00OOkdc;.                      
+.           .:okO000000KKKXXXXXXXNNNNNXXXXXXXkcccccckNNXkl:dc,lK000OOO000OOOOko,                    
+          :xO0KKKKKKKKKXXXXXXXXXXXXXNNNXXXXXXXklcclkNWX0xloOO:;xK000000000000O0O,     .             
+         oXXXXXKKXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXdllllox00KXKxc:;l0K0000000000000Xk.    .             
+        cXXXXXXXXXXXXXXXXXXXXXXXXXXNNXXXXXXXXXXKlcc:cloKWXKO:;;:xX00000000000KKKX:                  
+       ,KXXXXXXXXNXXXXXXXXXXXXXXXXXNWNXXXXXXXXXX0cc::coXNXKxl;,:l0K000000000KKKKNx                  
+.      oXXXXXXNNNNNXNNXXXXXXXXXXXXXXNNNXXXXXXXXXXkcc:cd0XXNKk:;;cxX000000000KKKKN0.   ..            
+.     .OXXXXXXNNNNNNNNNXXXXXXXXXXXXXXXNNXXXXXXXXXXd:::ddxOXXXk;;:o0K0000K00KKKKKNX;                 
+.     ;XNNXXXNNNNNNNNNNNNNXXXXXXXXXXXXXNNXXXXXXXXXKo::dxloxOXXd;;lxXK00KKKKKKKKKNN:                 
+.    .kNNXXXXNNNNNNNNNNNNNNNXXXXXXXXXXXXNNXXXXXXXXX0c:oX0xlld0Kc;cdKX00KKKKKKKKXNNl                 
+..  .xWNXXXXNNNNNNNNNNNWNNNNNNXXXXXXXXXXXNNXXXXXXXXXk:cKXXKxlokx;:okXKKKKKKKKKXXNNd  ..      .      
+.   cWNXXXXNNNNNNNNNNNNWWNNNNNNNNNNXXXXXXXNWXXXXXXXXXd:k0XXX0dodc;ldKXKKKKKKKXXXNNO                 
+.   OWXXXNNNNNNNNNNNNNNNWWNNNNNNNNNNNXXXXXXNWXXXXXXXXKcdxx0XXX0dl:cdOXKKKKKXXXXXNNK.                
+.   ONXNNNNNNNNNNNNNNNNNWWWWNNNNNNNNNNNNXXXXNWXXXXXXNNOlKOdx0XXKkc:okXKKKKXXXXXXNNN;                
+.   oNNNNNNNNNNNNNNNNNNWWMWWNNNNNNNNNNNNNNNNNNWXXXXNNNNd0XKOdkKXXocoxXXKKXXXXXNNNNNc  .             
+.   xNNNNNNNNNNNNNNNNNNWWMMWWNNNNNNNNNNNNNNNNNNWNXXNNNNKkXXXKOxONxcoxKNXXXXXXXXNWNWd                
+.  ;NNNNNNNNNNNNNNNNNNNWWMMWWWWNNNNNNNNNNNNNNNNWWNXNNNNNKxOXXXKO0OcoxKNXXXXNNNNNWNWO                
+.  oNNNNNNNNNNNNNNNNNNWWMMMMWWWWNNNNNNNNNNNNNNNNWWNNNNNNNxox0XNNXKloxXNXXXNNNNNNWNNK.               
+.  kNNNNNNWWNWWNNNWWWWWWMMMMWWWWWWWNNNNNNNNNNNNNNWWNNNNNNXOddkKNWWdoONNXXXNNNNNWWWNN;               
+  ,XNNNNNWWWWWWWWNWWWWWWMMMMWWWWWWWWWWNNNNNNNNNNNNWWNNNNNNNKxdx0NMkd0NNXXXNNNNNWWWNWl
+```
+
 <p align="center">
   <img src="Amit_new_ascii_hologram_donut.gif"
 <p align="left">
