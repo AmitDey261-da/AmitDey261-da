@@ -1,58 +1,33 @@
 # Hi there, I'm Amit Dey 👋
 
 ```
-                                           .;cloodxxxdollc,.                                        
-                                         .lOXWWWWWWWWWNXKOOxc;.                                     
-                                        .xXNMWMWWMMWWMMWWWXKK0k:                                    
-.                                     .;oNWMMMMMMMMMMMMWWWWWNKKKd.             .      .             
-                                     :k0KNMMMMMMMMWWMMMMMMMMMWNNWKc                                 
-.                                   lXXXNWXKKK0O00OOO0KXXNNWMMMWNN0o.                               
-.                                  ;XWNNWXxoddoooooooodddddxOKNMMWXK:    ..                         
-.                            .     oWWWWNxooooooooooollllllllodkXMWXo  ..                           
-.                                  xMMWN0dooooooooooollllllccclloOXNd                               
-                                   xMMWNOdddddoooollollllllcccccclKWx                               
-                                   xMMWNkdddooolllllllllllccc::cll0Nd                               
-                            ..     dMMMKdddxkOO00OOxoollloodddolcc0Wl  ..                           
-                                  .dWMWkoddOOO00KXXKOxdddxOKXKOkxoON;                               
-                                  c0OWWxooxkOKKXXKKK0koloOKXXOOkxoxK,                               
-.                                 dkdONxooodxkO00OOOkxollkOKXOkkdlo0;                               
-.                                 lxkOOxollllloddddddolccllodolc::od;  ..      .                    
-                                  :xkdxxdolcccclloddolll::clcc::::lo,                               
-.                                 ,oddkxdooooooodkkololll::okolccccc,                               
-                                   ,:ccxdddddxxkOkxk0KOxxxxdkOkdlll:.                               
-.                                      lxxxxxkk0KOkkO0000kxdxOOkdo:.                                
-                                       ;kxxxxxx0XKOkkkkkxddk00dddo,                                 
-                                       .dkxxxxxkkkkxdooolldkxkdodl.                                 
-.                                       :OOOkkkkxddxxxddddoloddxo,       ..                         
-.                                      .:x0000Oxxdddxkkkkdolodxo,                                   
-.                                     .,odxOKKK0kdooooooollcoxc.                                    
-.                                    :x::oxxOKXXXKOkkkkkxxkko,                                      
-.                             .    .oK0c::lxkk0KKXNNXXXXXKOx;                                       
-.                           .     ;kKXX0c:ccoxkOO0KKKXK0Oxol;                                       
-.                              ,:o0KXXXN0ccccloxkOO000Oxdold:.                                      
-.                          .;cdO0KKXXXXXN0ccccccloxkOOkxoldd;doc;.                                  
-.                      .,:oxO0KKXXKXXXXXXN0lccccc:cldxxdoxk;,OKkkkdl;,                              
-.                  .,:lxkO00KKKXXXXXXXXXXXN0lccccc::::ldxo;,,xNOkkOOOkdl:,                          
-.              .,:oxkO0000KKKXXXXXXXXXXXXXXXOlccccc::cxOOxc;,:0X0OkkO00OOkdc;.                      
-.           .:okO000000KKKXXXXXXXNNNNNXXXXXXXkcccccckNNXkl:dc,lK000OOO000OOOOko,                    
-          :xO0KKKKKKKKKXXXXXXXXXXXXXNNNXXXXXXXklcclkNWX0xloOO:;xK000000000000O0O,     .             
-         oXXXXXKKXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXdllllox00KXKxc:;l0K0000000000000Xk.    .             
-        cXXXXXXXXXXXXXXXXXXXXXXXXXXNNXXXXXXXXXXKlcc:cloKWXKO:;;:xX00000000000KKKX:                  
-       ,KXXXXXXXXNXXXXXXXXXXXXXXXXXNWNXXXXXXXXXX0cc::coXNXKxl;,:l0K000000000KKKKNx                  
-.      oXXXXXXNNNNNXNNXXXXXXXXXXXXXXNNNXXXXXXXXXXkcc:cd0XXNKk:;;cxX000000000KKKKN0.   ..            
-.     .OXXXXXXNNNNNNNNNXXXXXXXXXXXXXXXNNXXXXXXXXXXd:::ddxOXXXk;;:o0K0000K00KKKKKNX;                 
-.     ;XNNXXXNNNNNNNNNNNNNXXXXXXXXXXXXXNNXXXXXXXXXKo::dxloxOXXd;;lxXK00KKKKKKKKKNN:                 
-.    .kNNXXXXNNNNNNNNNNNNNNNXXXXXXXXXXXXNNXXXXXXXXX0c:oX0xlld0Kc;cdKX00KKKKKKKKXNNl                 
-..  .xWNXXXXNNNNNNNNNNNWNNNNNNXXXXXXXXXXXNNXXXXXXXXXk:cKXXKxlokx;:okXKKKKKKKKKXXNNd  ..      .      
-.   cWNXXXXNNNNNNNNNNNNWWNNNNNNNNNNXXXXXXXNWXXXXXXXXXd:k0XXX0dodc;ldKXKKKKKKKXXXNNO                 
-.   OWXXXNNNNNNNNNNNNNNNWWNNNNNNNNNNNXXXXXXNWXXXXXXXXKcdxx0XXX0dl:cdOXKKKKKXXXXXNNK.                
-.   ONXNNNNNNNNNNNNNNNNNWWWWNNNNNNNNNNNNXXXXNWXXXXXXNNOlKOdx0XXKkc:okXKKKKXXXXXXNNN;                
-.   oNNNNNNNNNNNNNNNNNNWWMWWNNNNNNNNNNNNNNNNNNWXXXXNNNNd0XKOdkKXXocoxXXKKXXXXXNNNNNc  .             
-.   xNNNNNNNNNNNNNNNNNNWWMMWWNNNNNNNNNNNNNNNNNNWNXXNNNNKkXXXKOxONxcoxKNXXXXXXXXNWNWd                
-.  ;NNNNNNNNNNNNNNNNNNNWWMMWWWWNNNNNNNNNNNNNNNNWWNXNNNNNKxOXXXKO0OcoxKNXXXXNNNNNWNWO                
-.  oNNNNNNNNNNNNNNNNNNWWMMMMWWWWNNNNNNNNNNNNNNNNWWNNNNNNNxox0XNNXKloxXNXXXNNNNNNWNNK.               
-.  kNNNNNNWWNWWNNNWWWWWWMMMMWWWWWWWNNNNNNNNNNNNNNWWNNNNNNXOddkKNWWdoONNXXXNNNNNWWWNN;               
-  ,XNNNNNWWWWWWWWNWWWWWWMMMMWWWWWWWWWWNNNNNNNNNNNNWWNNNNNNNKxdx0NMkd0NNXXXNNNNNWWWNWl
+                                                  
+                     _-+:;;+=.                    
+                    +5WW###W84?:                  
+                  ,a6@@####@@@W92,                
+                 .6W93100002347W#5,               
+                 :#W3baabbbcc;ca4$:               
+                 ;@W1!!!abccc;::c7:               
+                 ;#8!045650a!340!5=               
+                _!44b!24441b!551a0,               
+                 b10ac;ca!bc:cb:+c.               
+                 ,:a?!?02121?!1?c:_               
+                   ,000252110030!.                
+                    !321000?!a!?:                 
+                  _-b3652???!aa=                  
+                 ,01+a25777640,                   
+              _=b4880:c!1453!a=,_                 
+          _,:!26888891;;:ca!!;b4?a:,_             
+      _-;!1467889988990;::a30++443431a:.          
+    .!36777788888999888?:a6711cb65545553-         
+   _19888988888889988897b:;3$4+=365555671         
+   +889999999888889988895;+0570-a65555677.        
+   198999$9999998889988893+0005a+36666678-        
+_ a$899$$$$$$9999988998899??74??+!766778$:        
+ _5999$$$$$$W$99999999$8898!2474cc577789$!        
+ _4$9$$$$$$$##$$9999999$999556362;387899W3        
+ -9$$$$$$$$W##W$$$$$$99$$99942775b49899$W7_       
+ b$$$$$$$$WW@@WWW$$$$$$$$$9$9306$?69999$W9-  
 ```
 
 <p align="center">
