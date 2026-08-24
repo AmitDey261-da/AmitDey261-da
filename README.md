@@ -1,4 +1,7 @@
 # Hi there, I'm Amit Dey 👋
+
+<p align="center">
+  <img src="Amit_new_ascii_hologram_donut.gif"
 <p align="left">
   <a href="https://github.com/AmitDey261-da">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&vCenter=true&width=600&lines=Senior+Catastrophe+Modelling+Analyst;Data+Digging;SQL+Optimization+Specialist;Automation+Enthusiast;New+Python+Class+Developers" alt="Typing SVG" />
